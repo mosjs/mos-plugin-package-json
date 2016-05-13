@@ -3,7 +3,8 @@
   "version": "0.0.0-placeholder",
   "description": "A mos plugin that makes the package.json available in the markdown scope",
   "files": [
-    "index.js"
+    "index.js",
+    "lib/"
   ],
   "main": "index.js",
   "scripts": {
