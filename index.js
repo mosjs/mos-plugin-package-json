@@ -1,8 +1,6 @@
 'use strict'
-module.exports = plugin
+module.exports = (mos, md) => Object.assign(mos.scope, require('./lib')(md))
 
-function plugin (markdown) {
-  return {
-    pkg: markdown.pkg,
-  }
+module.exports.attributes = {
+  pkg: require('./package.json'),
 }
