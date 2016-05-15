@@ -7,7 +7,7 @@
 <!--/@-->
 
 <!--@shields.flatSquare('npm', 'travis', 'coveralls')-->
-[![NPM version](https://img.shields.io/npm/v/mos-plugin-package-json.svg?style=flat-square)](https://www.npmjs.com/package/mos-plugin-package-json) [![Build status for master](https://img.shields.io/travis/zkochan/mos-plugin-package-json/master.svg?style=flat-square)](https://travis-ci.org/zkochan/mos-plugin-package-json) [![Test coverage for master](https://img.shields.io/coveralls/zkochan/mos-plugin-package-json/master.svg?style=flat-square)](https://coveralls.io/r/zkochan/mos-plugin-package-json?branch=master)
+[![NPM version](https://img.shields.io/npm/v/mos-plugin-package-json.svg?style=flat-square)](https://www.npmjs.com/package/mos-plugin-package-json) [![Build status for master](https://img.shields.io/travis/mosjs/mos-plugin-package-json/master.svg?style=flat-square)](https://travis-ci.org/mosjs/mos-plugin-package-json) [![Test coverage for master](https://img.shields.io/coveralls/mosjs/mos-plugin-package-json/master.svg?style=flat-square)](https://coveralls.io/r/mosjs/mos-plugin-package-json?branch=master)
 <!--/@-->
 
 <!--@installation()-->
@@ -37,13 +37,13 @@ npm install mos-plugin-package-json --save
 * * *
 
 <!--@dependencies({ shield: 'flat-square' })-->
-## <a name="dependencies">Dependencies</a> [![Dependency status for master](https://img.shields.io/david/zkochan/mos-plugin-package-json/master.svg?style=flat-square)](https://david-dm.org/zkochan/mos-plugin-package-json/master)
+## <a name="dependencies">Dependencies</a> [![Dependency status for master](https://img.shields.io/david/mosjs/mos-plugin-package-json/master.svg?style=flat-square)](https://david-dm.org/mosjs/mos-plugin-package-json/master)
 
 None
 <!--/@-->
 
 <!--@devDependencies({ shield: 'flat-square' })-->
-## <a name="dev-dependencies">Dev Dependencies</a> [![devDependency status for master](https://img.shields.io/david/dev/zkochan/mos-plugin-package-json/master.svg?style=flat-square)](https://david-dm.org/zkochan/mos-plugin-package-json/master#info=devDependencies)
+## <a name="dev-dependencies">Dev Dependencies</a> [![devDependency status for master](https://img.shields.io/david/dev/mosjs/mos-plugin-package-json/master.svg?style=flat-square)](https://david-dm.org/mosjs/mos-plugin-package-json/master#info=devDependencies)
 
 - [chai](https://github.com/chaijs/chai): BDD/TDD assertion library for node.js and the browser. Test framework agnostic.
 - [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog): Commitizen adapter following the conventional-changelog format.
